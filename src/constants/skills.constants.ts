@@ -1,0 +1,22 @@
+export const SKILL_CATEGORIES = [
+    'Software Development',
+    'Data Science',
+    'Product Management',
+    'UI/UX Design',
+    'Sales',
+    'Marketing',
+    'Finance',
+    'Operations',
+    'Business Development',
+    'Customer Success',
+    'Cybersecurity',
+    'Cloud Architecture',
+    'AI/ML Engineering',
+    'Fundraising',
+    'HR & Team Building',
+    'Legal & Compliance',
+    'Supply Chain',
+    'Manufacturing',
+    'Research & Development',
+    'Content Creation'
+  ];

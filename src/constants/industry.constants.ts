@@ -1,0 +1,22 @@
+export const INDUSTRIES = [
+    'SaaS',
+    'Fintech',
+    'Healthcare',
+    'E-commerce',
+    'Edtech',
+    'AI/ML',
+    'Cybersecurity',
+    'Blockchain',
+    'Clean Energy',
+    'Biotech',
+    'Consumer Apps',
+    'Hardware',
+    'IoT',
+    'Enterprise Software',
+    'Marketplace',
+    'Media & Entertainment',
+    'Real Estate Tech',
+    'Social Impact',
+    'Gaming',
+    'Travel & Hospitality'
+  ];
